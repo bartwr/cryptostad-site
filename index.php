@@ -15,19 +15,19 @@
   <meta property="og:article:tag" content="Cryptosteden in Nederland - Hier betaal je met Bitcoin" />
   <meta property="og:locale" content="nl-NL" />
   <meta property="og:title" content="Cryptosteden in Nederland - Hier betaal je met Bitcoin" />
-  <meta property="og:description" content="Cryptosteden in Nederland - Hier betaal je met Bitcoin" />
+  <meta property="og:description" content="Ken jij de voordelen van het nieuwe geld al? Dan wil je vermoedelijk alleen nog met cryptogeld betalen. Zie hier waar je je boodschappen doet met BTC." />
   <meta property="og:site_name" content="Cryptosteden in Nederland - Hier betaal je met Bitcoin" />
-  <meta property="og:image" content="img/banner.png" />
+  <meta property="og:image" content="http://cryptostad.nl/img/banner.png" />
 
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Cryptosteden in Nederland - Hier betaal je met Bitcoin" />
-  <meta name="twitter:description" content="Cryptosteden in Nederland - Hier betaal je met Bitcoin" />
+  <meta name="twitter:description" content="Ken jij de voordelen van het nieuwe geld al? Dan wil je vermoedelijk alleen nog met cryptogeld betalen. Zie hier waar je je boodschappen doet met BTC." />
 
   <link rel="shortcut icon" href="img/bitcoin.png">
   <link rel="apple-touch-icon" sizes="72x72" href="img/bitcoin.png">
   <link rel="apple-touch-icon" sizes="114x114" href="img/bitcoin.png">
-  <link rel="image_src" href="img/banner.png" />
+  <link rel="image_src" href="http://cryptostad.nl/img/banner.png" />
 
 </head>
 <body>
@@ -48,9 +48,17 @@
       <a href="https://coinmap.org/?all#/map/52.37224557/4.91878510/13" target="content">Andere plaatsen</a>
     </section>
 
+    <section class="places">
+      <strong>Online</strong>
+      <a href="https://www.thuisbezorgd.nl/" target="content">Thuisbezorgd</a>
+      <a href="https://purse.io/" target="content">Amazon</a>
+      <a href="https://duosear.ch/" target="content">OpenBazaar</a>
+    </section>
+
     <section class="apps">
       <strong>Apps</strong>
       <a href="http://bitmapapp.com/" target="content">Bitmap voor iOS</a>
+      <a href="https://jaxx.io/" target="content">Jaxx cryptogeld wallet</a>
     </section>
 
     <section class="apps">

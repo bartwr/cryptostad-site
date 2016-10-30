@@ -65,7 +65,7 @@ nav {
   background: #fff;
   width: 200px;
   border-right: solid #f38b31 2px;
-  height: 100%;
+  min-height: 100%;
   z-index: 1;
 }
 .hidden-nav nav{
