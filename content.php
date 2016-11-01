@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  Gelukkig beginnen er ook in Nederland beginnen steeds meer fysieke plekken te komen waar je met bitcoins kunt betalen. Kijk bijvoorbeeld naar Arnhem en Amsterdam, waar meer dan 100 plekken zijn waar je met bitcoin betaalt. Café's, restaurants, schoenenwinkels, bakkers. Zelfs de <a href="https://www.cryptocoinsnews.com/first-bitcoin-supermarket-arnhem-netherlands/" target="_blank">Spar</a>, BP en Burger King doen mee.
+  Gelukkig beginnen er ook in Nederland steeds meer fysieke plekken te komen waar je met bitcoins kunt betalen. Kijk bijvoorbeeld naar Arnhem en Amsterdam, waar meer dan 100 plekken zijn waar je met bitcoin betaalt. Café's, restaurants, schoenenwinkels, bakkers. Zelfs de <a href="https://www.cryptocoinsnews.com/first-bitcoin-supermarket-arnhem-netherlands/" target="_blank">Spar</a>, BP en Burger King doen mee.
 </p>
 
 <p>
